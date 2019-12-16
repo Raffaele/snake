@@ -1,0 +1,19 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Raffaele/snake",
+  "author": "Raffaele Morí <mori.raffaele@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./src/index.html -p 8085"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {
+    "sass": "^1.23.7",
+    "typescript": "^3.7.2"
+  }
+}
